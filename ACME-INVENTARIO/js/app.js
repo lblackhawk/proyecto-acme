@@ -148,3 +148,6 @@ if (form) {
     });
 }
 
+// Llama a la función para que dibuje la tabla apenas cargue la página
+renderProducts();
+
